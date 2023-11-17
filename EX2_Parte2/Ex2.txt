@@ -1,0 +1,7 @@
+Recolhe([(ARaz0,27),(AR540,30)])
+Entrega(GT3,ARaZ0,27)
+Entrega(FR2,AR540,30)
+Recolhe([(FRt53,20),(34Rgu,12)])
+Entrega(AB99,FRt53,20)
+Entrega(TY34,34Rgu,12)
+

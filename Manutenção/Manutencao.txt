@@ -1,0 +1,7 @@
+Manutencao(1)
+Manutencao(5)
+Arroz(2)
+Manutencao(0)
+(0)
+5
+Manutencao(2)

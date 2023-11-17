@@ -1,0 +1,15 @@
+Entrega(LM035,A4gt6,20)
+Entrega(RV002,A4gt6,20)
+IU100
+!!Entregue!!
+
+Para Recolha:
+
+A4gt6,40,
+12dF3,10
+
+
+
+Foi 0 vezes a manutencao
+O camiao esta Armazem
+O camiao tem 85 de bateria

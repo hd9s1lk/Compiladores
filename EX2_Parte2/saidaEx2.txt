@@ -1,0 +1,29 @@
+Para Recolha:
+
+ARaz0,27,
+AR540,30
+
+GT3
+!!Entregue!!
+GT3
+
+FR2
+!!Entregue!!
+FR2
+
+Para Recolha:
+
+FRt53,20,
+34Rgu,12
+
+AB99
+!!Entregue!!
+AB99
+
+TY34
+!!Entregue!!
+TY34
+
+
+Foi 0 vezes a manutencao
+O camiao esta TY34

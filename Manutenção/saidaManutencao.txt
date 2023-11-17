@@ -1,0 +1,3 @@
+Terminar tarefa atual
+Deslocar Imediatamente
+Terminar todas as tarefas pendentes

@@ -1,0 +1,37 @@
+Para Recolha:
+
+ARaz0,27,
+AR540,30
+
+GT3
+!!Entregue!!
+
+FR2
+!!Entregue!!
+
+Para Recolha:
+
+FRt53,20,
+34Rgu,12
+
+AB99
+!!Entregue!!
+
+TY34
+!!Entregue!!
+
+Bateria <= 20
+Bateria ja esta a 100
+
+
+
+
+
+
+
+
+
+
+Foi 2 vezes a manutencao
+O camiao esta Posto de Manutencao
+O camiao tem 100 de bateria
