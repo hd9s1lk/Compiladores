@@ -1,0 +1,5 @@
+Carrega-Bateria(1)
+Carrega-Bateria(2)
+Carrega-Bateria(0)
+ola
+boas
